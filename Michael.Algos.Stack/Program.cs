@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
 namespace Michael.Algos.Stack
 {
@@ -6,7 +6,10 @@ namespace Michael.Algos.Stack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var stack = new Stack<int>();
+            stack.Push(1);
+            stack.Peek();
+            stack.Pop();
         }
     }
 }

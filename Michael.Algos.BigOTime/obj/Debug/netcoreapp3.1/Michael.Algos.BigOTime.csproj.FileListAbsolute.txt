@@ -1,0 +1,13 @@
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.exe
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.deps.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.runtimeconfig.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.runtimeconfig.dev.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.dll
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\bin\Debug\netcoreapp3.1\Michael.Algos.BigOTime.pdb
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.csprojAssemblyReference.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.csproj.CoreCompileInputs.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.AssemblyInfoInputs.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.AssemblyInfo.cs
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.dll
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.pdb
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.BigOTime\obj\Debug\netcoreapp3.1\Michael.Algos.BigOTime.genruntimeconfig.cache

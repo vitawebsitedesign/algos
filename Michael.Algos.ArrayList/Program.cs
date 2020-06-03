@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace Michael.Algos.ArrayList
 {
@@ -6,7 +7,11 @@ namespace Michael.Algos.ArrayList
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var list = new List<int>();
+            list.AddRange(Enumerable.Range(1, 10)); // space O(n)
+
+            list.Add(1);        // time O(1)
+            list.Remove(1);     // time O(n)
         }
     }
 }
