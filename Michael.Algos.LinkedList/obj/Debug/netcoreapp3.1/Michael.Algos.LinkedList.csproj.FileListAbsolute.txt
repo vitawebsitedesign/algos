@@ -1,0 +1,13 @@
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.exe
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.deps.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.runtimeconfig.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.runtimeconfig.dev.json
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.dll
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\bin\Debug\netcoreapp3.1\Michael.Algos.LinkedList.pdb
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.csprojAssemblyReference.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.AssemblyInfoInputs.cache
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.AssemblyInfo.cs
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.dll
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.pdb
+C:\Users\mn\Desktop\tech-review\Michael.Algos\Michael.Algos.LinkedList\obj\Debug\netcoreapp3.1\Michael.Algos.LinkedList.genruntimeconfig.cache

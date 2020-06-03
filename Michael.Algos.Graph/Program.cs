@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Michael.Algos.Graph
+﻿namespace Michael.Algos.Graph
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // n/a
         }
     }
 }

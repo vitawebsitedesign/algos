@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Collections.Generic;
 
 namespace Michael.Algos.Queue
 {
@@ -6,7 +6,10 @@ namespace Michael.Algos.Queue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var q = new Queue<int>();
+            q.Enqueue(1);
+            q.Peek();
+            q.Dequeue();
         }
     }
 }

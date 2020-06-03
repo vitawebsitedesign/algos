@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace Michael.Algos.MemoryHeap
+﻿namespace Michael.Algos.MemoryHeap
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // n/a
         }
     }
 }

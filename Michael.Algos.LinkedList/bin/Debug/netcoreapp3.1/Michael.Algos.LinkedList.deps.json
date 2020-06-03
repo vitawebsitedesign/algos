@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Michael.Algos.LinkedList/1.0.0": {
+        "runtime": {
+          "Michael.Algos.LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Michael.Algos.LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
